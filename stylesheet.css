@@ -1,0 +1,74 @@
+/* .div {
+    align= Right;
+} */
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.right {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px;
+    
+}
+
+.right-links {
+    margin-top: 15px;
+}
+
+#gmail {
+    /* margin: auto;
+    padding-top: 10px; */
+}
+
+#center {
+        display: block;
+        margin-left: 500px;
+        margin-top: 175px;
+        width: 50%;
+       
+        
+      }
+#searchbar {
+        margin: auto;
+        margin-left: 400px;
+        width: 1600px;
+    }   
+    .search {
+       width: 35%;
+       padding: 7px;
+       font-size: 15px; 
+    }
+
+    #buttons {
+        margin: auto;
+        margin-left: 520px;
+        margin-top: 30px;
+
+    }
+    #googlesearch {
+        height: 50px;
+        width: 150px;
+        font-size: 16px;
+    }
+    #lucky {
+        height: 50px;
+        width: 150px;
+        font-size: 16px;
+        
+    }
+
+    #text {
+        margin:auto;
+        margin-left: 525px
+    }
+
+    #footer {
+        margin: auto;
+        margin-top: 310px;
+        background-color: silver;
+        border: 1px solid black;
+
+    }
